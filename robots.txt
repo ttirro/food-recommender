@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ttirro.github.io/food-recommender/sitemap.xml
